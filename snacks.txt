@@ -1,6 +1,0 @@
-snacks
---------------
-
-chips
-peanut
-ice-cream

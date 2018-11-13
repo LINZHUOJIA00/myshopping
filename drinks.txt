@@ -1,6 +1,0 @@
-drinks
-----------------
-
-cola
-tea
-coffee
